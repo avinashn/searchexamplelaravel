@@ -13,7 +13,7 @@
 </ul>
 
 ## Working Demo
-You can see the demo of the project <a href="http://justlaravel.com/demos/search-functionality-in-laravel/">here</a>
+You can see the demo of the project <a href="http://demos.justlaravel.com/search-functionality-in-laravel/">here</a>
 
 ## Reference Post
 <a href="http://justlaravel.com/search-functionality-laravel/">http://justlaravel.com/search-functionality-laravel/
